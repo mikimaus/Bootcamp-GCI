@@ -1,2 +1,2 @@
 # Bootcamp-GCI
-Diperuntukkan untuk mengumpulkan file tugas bootcamp
+Repository ini dibuat guna keperluan pengumpulan tugas bootcamp
